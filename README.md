@@ -10,7 +10,7 @@ References taken from <a href="https://www.tutorialspoint.com/lisp/"> Tutorials 
 
 ### Step 3: Open VS Code and download the `Common Lisp` extension
 
-### Step 4: Create a new life "demo.lisp" and copy the following code and save
+### Step 4: Create a new file "demo.lisp" and copy the following code and save
 ```lisp
 ; Demo Code
 
