@@ -28,3 +28,4 @@ Page 854 of Docs
 
 (print (first '((a e) i o u)))      ; (a e)
 (print (rest '((a e) i o u)))       ; (i o u)
+
